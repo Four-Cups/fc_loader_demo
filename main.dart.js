@@ -30173,7 +30173,7 @@ A.Xp.prototype={
 $0(){},
 $S:0}
 A.z5.prototype={
-M(a,b){var s=null,r=A.JU(A.b([A.bM(s,new A.pQ(A.acr(s,s,new A.ot("logo.png",s,s)),s),B.a5,s,150,s,B.vV,1/0),A.bM(s,s,s,B.tl,1.5,s,s,1500),A.bM(s,A.cP(A.a1m("LOADERS",A.a0L(s,26,B.Q,1.5),s,s),s,s),s,s,120,s,s,1/0),new A.C9(B.rL,50,B.rL,50,B.xI,s)],t.p),B.eI)
+M(a,b){var s=null,r=A.JU(A.b([A.bM(s,new A.pQ(A.acr(s,s,new A.ot("assets/logo.png",s,s)),s),B.a5,s,150,s,B.vV,1/0),A.bM(s,s,s,B.tl,1.5,s,s,1500),A.bM(s,A.cP(A.a1m("LOADERS",A.a0L(s,26,B.Q,1.5),s,s),s,s),s,s,120,s,s,1/0),new A.C9(B.rL,50,B.rL,50,B.xI,s)],t.p),B.eI)
 return new A.qr(new A.rB(A.cP(new A.Bd(B.bP,!0,r,s),s,s),B.v9,s),"FC Loaders Display App",!1,s)}}
 A.iX.prototype={
 M(a,b){var s=null
